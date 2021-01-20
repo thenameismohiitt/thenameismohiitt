@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 📝 I regularly write articles on [https://mohitchandani.medium.com/](mohitchandani.medium.com/)
-
 - 💬 Ask me about **vue,nuxt and spring-boot**
 
 - ⚡ Fun fact **I think I am funny**
